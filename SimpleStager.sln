@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleStager", "SimpleStager\SimpleStager.csproj", "{AB551928-A8F4-41FC-B4D2-1F75EFB2160D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB551928-A8F4-41FC-B4D2-1F75EFB2160D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB551928-A8F4-41FC-B4D2-1F75EFB2160D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB551928-A8F4-41FC-B4D2-1F75EFB2160D}.Debug|x64.ActiveCfg = Debug|x64
+		{AB551928-A8F4-41FC-B4D2-1F75EFB2160D}.Debug|x64.Build.0 = Debug|x64
+		{AB551928-A8F4-41FC-B4D2-1F75EFB2160D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB551928-A8F4-41FC-B4D2-1F75EFB2160D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB551928-A8F4-41FC-B4D2-1F75EFB2160D}.Release|x64.ActiveCfg = Release|x64
+		{AB551928-A8F4-41FC-B4D2-1F75EFB2160D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB82D54E-71C7-4BE9-9F26-1C03EEAA7C10}
+	EndGlobalSection
+EndGlobal
